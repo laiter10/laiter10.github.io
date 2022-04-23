@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-size: 250px;
+}
+
+.loh{
+    font-size: 300px;
+}
+.fon{
+    background-image: url("32-12.jpg");
+    min-height: 1000px;
+}
